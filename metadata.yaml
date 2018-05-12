@@ -1,0 +1,27 @@
+_repo: Six-Years-in-the-Prisons-of-England_21284
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Henderson, Frank, of London
+    gutenberg_agent_id: '9830'
+    url: http://www.gutenberg.org/2009/agents/9830
+description: ''
+gutenberg_bookshelf: United Kingdom
+gutenberg_issued: '2007-05-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21284'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Prisoners -- Biography'
+- !lcsh 'Prisons -- Great Britain'
+- !lcsh 'Prisoners'' writings, English'
+- !lcc 'HV'
+title: Six Years in the Prisons of England
+url: http://www.gutenberg.org/ebooks/21284
